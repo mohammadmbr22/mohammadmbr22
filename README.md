@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### About me
+My name is Mohammad Broomand and I'm a 26-year-old student studying construction engineering and management at the University of Tehran. Although I come from a civil engineering background, I'm thrilled to learn more about programming, computer and data science, and web development. I'm always eager to learn and expand my knowledge, and I have some experience working with programming languages like Python and Visual Basic.net. In the future, I'd like to pursue a PhD degree. Thanks so much for taking the time to read a little bit about me!
+
+### My Hobbies
+1. Nature Photography
+2. Hiking and Backpacking
+3. Listening to Music
+
+
+
 <!--
 **mohammadmbr22/mohammadmbr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
